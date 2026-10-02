@@ -21,7 +21,7 @@ Senior Technical Lead with nearly 10 years of experience architecting and operat
 ---
 
 ### 💼 Career Snapshot
-- **Senior Technical Lead** @ Trianz (*Client: NetApp ActiveIQ Datahub*) `2022 – Present`
+- **Senior Technical Lead** @ Trianz (*Client: NetApp*) `2022 – Present`
 - **Consultant** @ Deloitte Consulting India `2019 – 2022`
 - **System Engineer** @ Tata Consultancy Services (TCS) `2016 – 2019`
 
